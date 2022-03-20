@@ -1,0 +1,11 @@
+spacy
+nltk
+statistics
+newspaper
+sentence_transformers 
+numpy 
+transformers
+transformers 
+urllib.request
+bs4 
+streamlit
