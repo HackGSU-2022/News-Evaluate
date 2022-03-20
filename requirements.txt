@@ -5,6 +5,6 @@ newspaper3k
 sentence_transformers 
 numpy 
 transformers 
-urllib.request
+urllib
 bs4 
 streamlit
