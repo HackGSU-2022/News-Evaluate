@@ -1,7 +1,7 @@
 spacy
 nltk
 statistics
-newspaper
+newspaper3k
 sentence_transformers 
 numpy 
 transformers 
