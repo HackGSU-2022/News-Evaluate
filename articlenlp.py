@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 import streamlit as st
 
 
-#nlp = spacy.load("en_core_web_md")
+nlp = spacy.load("en_core_web_md")
 nltk.download('punkt')
 
 
