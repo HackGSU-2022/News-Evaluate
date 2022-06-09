@@ -32,16 +32,3 @@ Completing the project was a great achievement for us! We are also proud of the 
 ## What We Learned
 
 We learned how to implement a NLP model in the real-world scenario. We also learned the challenges a NLP model implementation faces and what are some ways to overcome those challenges. This was our first time using streamlit.io cloud to host a our app, which was a great learning curve for us
-
-## What's Next for PocketAnalyst
-
-This isn't the last you've heard from us!
-
-Going forward, we will be working on:
-- Better extraction of the article. 
-- More detailed and improved summarization of the article
-- Increased accuracy of the sentimental analysis of the article
-- Checking the political bias of the article using Machine Learning
-
-
-
