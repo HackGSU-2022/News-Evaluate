@@ -17,10 +17,6 @@ Don't have the time to read the full article? Trying to avoid reading negative n
 We used python modules from BERT created by Hugging Face. We then worked on classifying the most popular tags of the article by getting a score that was implemented using a transformer by hugging face. We then worked on getting the NYTimes API to get a similar result which included some words of the headline of the original article if a reader wants to know more about the topic discussed in the article. At the end we used Streamlit.io to create a creative and responsive web app and implemented our project in there.
 
 
-## Future Viability
-
-We see a clear path towards making PocketAnalyst a sustainable product that makes a real difference in its users' lives. We see our product as one that will work well in partnership with other businesses, especially brokerage firms, similar to what CreditKarma does with credit card companies. We believe that giving consumers access to a free chatbot to help them invest will make their investment experiences easier, while also freeing up time in financial advisors' days.
-
 ## Challenges We Ran Into
 
 We tried to implement this project on cloud by using either GCP or Streamlit cloud. Unfortunately, we were unable to get those implemented in the given amount of time. We also ran into issue of sorting the tags and presenting the user the most relevant tags of an article.
